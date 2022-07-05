@@ -14,6 +14,7 @@ import { PaginationModule } from 'src/app/modules';
 		PaginationModule
 	]
 })
-
+```
+## HTML
 ```
 <wpagination></wpagination>
