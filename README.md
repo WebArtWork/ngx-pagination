@@ -8,7 +8,7 @@ waw add ngx-pagination
 
 ## Usage
 ```
-import { InputModule } from 'src/app/modules';
+import { PaginationModule } from 'src/app/modules';
 @NgModule({
 	imports: [
 		PaginationModule
